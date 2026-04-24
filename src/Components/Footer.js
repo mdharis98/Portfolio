@@ -9,7 +9,11 @@ const Footer = () => {
       <h4>Developed by Mohammad Haris</h4>
       <h4>Copyright &copy; MH</h4>
       <div className="footerLinks">
-        <a href="https://github.com/mdharis98" target="_blank" rel="noreferrer">
+        <a
+          href="https://github.com/mdharis98"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <FaGithub />
         </a>
         <a
